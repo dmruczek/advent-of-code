@@ -10,7 +10,7 @@
 			"js-combinatorics/commonjs/combinatorics": ["./node_modules/js-combinatorics"]
 		},
 		"typeRoots": ["./node_modules/@types", "./util/@types"],
-		"types": ["global", "node"],
+		"types": ["global", "node", "jest"],
 		"esModuleInterop": true,
 		"skipLibCheck": false,
 		"forceConsistentCasingInFileNames": true,

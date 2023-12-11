@@ -1,4 +1,5 @@
 .DS_Store
 .scratch
 ./test.ts
+.coverage
 node_modules/
